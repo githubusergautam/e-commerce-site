@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot E-commerce</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+    <!-- Hero Section with a Stunning Image -->
+    <section class="hero">
+        <div class="overlay">
+            <h1 class="hero-title">Get Business Quotes in Style</h1>
+            <p class="hero-subtitle">Fast, Efficient, and Professional Quotations for Your Needs.</p>
+            <a href="#products" class="btn hero-btn">Explore Products</a>
+        </div>
+    </section>
+
+    <!-- Featured Products Section -->
+    <section id="products" class="products container mt-5">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Hot Ecommerce Site</title>
+    <!-- Link to style.css in the root folder -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Meta tags for SEO -->
+    <meta name="description" content="Welcome to Your Hot Ecommerce Site! Discover and shop the latest products at great prices.">
+    <meta name="keywords" content="Ecommerce, Products, Shop, Deals">
+    <meta name="author" content="Your Name">
+</head>
+<body>
+    <!-- Header section -->
+    <header>
+        <h1>Welcome to Your Hot Ecommerce Site</h1>
+        <p>Your one-stop destination for amazing deals and products!</p>
+    </header>
+
+    <!-- Navigation bar -->
+    <nav>
+        <ul>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main content section -->
+    <main>
+        <!-- Product section -->
+        <section id="products">
+            <h2>Our Products</h2>
+            <p>Explore our wide range of products tailored to meet your needs.</p>
+            <!-- Sample product cards -->
+            <div class="product-card">
+                <img src="sample-product.jpg" alt="Sample Product">
+                <h3>Sample Product</h3>
+                <p>₹999.00</p>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product-card">
+                <img src="sample-product-2.jpg" alt="Sample Product 2">
+                <h3>Sample Product 2</h3>
+                <p>₹1,299.00</p>
+                <button>Add to Cart</button>
+            </div>
+            <!-- More products can be added here -->
+        </section>
+
+        <!-- About section -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We are dedicated to providing high-quality products and exceptional customer service. Your satisfaction is our priority!</p>
+        </section>
+
+        <!-- Contact section -->
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Have any questions? Reach out to us through the following channels:</p>
+            <ul>
+                <li>Email: support@hotecommercesite.com</li>
+                <li>Phone: +91-123-456-7890</li>
+                <li>Address: 123 Market Street, Mumbai, India</li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>&copy; 2024 Your Ecommerce Site | All rights reserved.</p>
+        <p>Follow us on:
+            <a href="#">Facebook</a> |
+            <a href="#">Instagram</a> |
+            <a href="#">Twitter</a>
+        </p>
+    </footer>
+
+    <!-- Link to script.js in the root folder -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+
